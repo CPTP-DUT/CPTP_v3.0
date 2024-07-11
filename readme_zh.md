@@ -14,14 +14,15 @@
 
 2. CPTP v3.0为绿色软件，无需额外操作，双击运行CPTP.exe即可打开软件。
 
-   ![image-20240711135456631](C:\Users\kang\AppData\Roaming\Typora\typora-user-images\image-20240711135456631.png)
+
+![Uploading image-20240711135456631.png…]()
 
    
 
 ## 第3步：申请授权码
 下载软件后，您需要**申请授权码来激活软件**
 
-![image-20240711135716362](C:\Users\kang\AppData\Roaming\Typora\typora-user-images\image-20240711135716362.png)
+![2](https://github.com/CPTP-DUT/CPTP_v3.0/assets/175286762/6fbb5b48-a4d6-4ff1-a9fa-721484c30cf6)
 
 请按照以下说明申请您的注册码：
 
