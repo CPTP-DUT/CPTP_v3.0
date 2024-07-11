@@ -14,12 +14,13 @@ After downloading the software, you can start installing it:
 
 2. CPTP v3.0 is a portable application; no additional steps are required, simply double-click on CPTP.exe to launch the software.
 
-   ![image-20240711135456631](C:\\Users\\kang\\AppData\\Roaming\\Typora\\typora-user-images\\image-20240711135456631.png)
+![image-20240711135456631](https://github.com/CPTP-DUT/CPTP_v3.0/assets/175286762/49e85fc5-1d4a-491a-813d-a8d80df4efd6)
+
 
 ## Step 3: Request an Authorization Code
 After downloading the software, you need to **apply for an authorization code to activate the software**.
 
-![image-20240711135716362](C:\\Users\\kang\\AppData\\Roaming\\Typora\\typora-user-images\\image-20240711135716362.png)
+![2](https://github.com/CPTP-DUT/CPTP_v3.0/assets/175286762/dab40b92-b3f7-4cf9-aca0-6ca9f5e7eae3)
 
 Please follow these instructions to apply for your registration code:
 
