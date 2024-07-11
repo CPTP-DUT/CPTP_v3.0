@@ -15,7 +15,8 @@
 2. CPTP v3.0为绿色软件，无需额外操作，双击运行CPTP.exe即可打开软件。
 
 
-![Uploading image-20240711135456631.png…]()
+![image-20240711135456631](https://github.com/CPTP-DUT/CPTP_v3.0/assets/175286762/98bd1abf-fe3b-4da2-84fc-906c44a4350c)
+
 
    
 
